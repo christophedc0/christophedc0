@@ -1,5 +1,7 @@
 👋 Hi, I’m @christophedc0
+
 👀 I’m interested in python, espresso & homelab stuff
+
 🌱 I’m currently learning too much at the same time
 
 <!---
